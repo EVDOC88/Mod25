@@ -29,8 +29,6 @@ namespace Mod25
                 userRepository = new UserRepository();
                 bookRepository = new BookRepository();
 
-
-
                 while (true)
                 {
 
@@ -127,11 +125,6 @@ namespace Mod25
                                 break;
                             }
                     }
-
-
-
-
-
 
 
                 }
